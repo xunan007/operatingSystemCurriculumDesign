@@ -134,7 +134,7 @@
                 });
                 this.recordTip.push(
                     `【添加资源】：添加的资源分别是A：${Number(data[0])}、B：${Number(data[1])}、C：${Number(data[2])}，
-                    现可用资源分别是${this.availArray[0]}、B:${this.availArray[1]}、C:${this.availArray[2]}。`
+                    现可用资源分别是A：${this.availArray[0]}、B：${this.availArray[1]}、C：${this.availArray[2]}。`
                 );
             },
             // 响应inputMsg组件发起的操作，动态添加进程
