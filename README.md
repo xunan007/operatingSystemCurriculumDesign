@@ -29,6 +29,10 @@
 4. 打包构建：`npm run build`
 5. 生产模式下开启服务器：`node prod.server.js`
 
+### 程序截图
+
+![](http://oxybu3xjd.bkt.clouddn.com/18-1-11/17848455.jpg)
+
 ---
 
 以上。
